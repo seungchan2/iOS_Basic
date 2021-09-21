@@ -8,3 +8,5 @@
 - Segue 로 Present
 - Code 로 Push
 - Code 로 Present
+- View Life Cycle
+- 
