@@ -9,4 +9,4 @@
 - Code 로 Push
 - Code 로 Present
 - View Life Cycle
-- 
+- 델리게이션을 활용한 데이터 전달
