@@ -16,3 +16,6 @@
 
 https://user-images.githubusercontent.com/80672561/134204906-63dcfb23-c485-4fb5-a0b4-1ea5e3f15619.mov
 
+## [4] 계산기
+- StackView
+- IBInspectable, IBDesignable
