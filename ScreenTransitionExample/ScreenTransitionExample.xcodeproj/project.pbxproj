@@ -71,10 +71,10 @@
 				EC3F0FB826FA0EA300739A53 /* CodePresentViewController.swift */,
 				EC3F0FB626FA0D9300739A53 /* CodePushViewController.swift */,
 				EC3F0FB426FA0CC300739A53 /* SeguePresentViewController.swift */,
+				EC3F0FB226FA0B9F00739A53 /* SeguePushViewController.swift */,
 				EC3F0FA726FA0A0700739A53 /* Assets.xcassets */,
 				EC3F0FA926FA0A0700739A53 /* LaunchScreen.storyboard */,
 				EC3F0FAC26FA0A0700739A53 /* Info.plist */,
-				EC3F0FB226FA0B9F00739A53 /* SeguePushViewController.swift */,
 			);
 			path = ScreenTransitionExample;
 			sourceTree = "<group>";
